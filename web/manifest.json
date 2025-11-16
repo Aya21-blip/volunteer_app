@@ -1,0 +1,6 @@
+{
+  "name": " ghosn ",
+  "short_name": "VolApp",
+  "start_url": "index.html",
+  "display": "standalone"
+}
