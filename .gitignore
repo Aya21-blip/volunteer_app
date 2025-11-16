@@ -1,0 +1,41 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# iOS
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/Generated.xcconfig
+
+# Android
+.android/
+.gradle/
+local.properties
+
+# VS Code
+.vscode/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# macOS
+*.DS_Store
+
+# Windows
+Thumbs.db
+
+
+
+
+
+
+
+
+
+
+
+
+
